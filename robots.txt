@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tanvobirdnest.github.io/sitemap.xml
+Sitemap: https://yensaotanvo.com/sitemap.xml
